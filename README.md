@@ -1,6 +1,6 @@
-title: "Is Data Science a Hype?"
-author: "Zaid Haddad"
-date: "10/24/2019"
+# Is Data Science a Hype?
+
+
 
 # What is Data Science?
 
