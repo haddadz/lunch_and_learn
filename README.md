@@ -1,13 +1,6 @@
----
 title: "Is Data Science a Hype?"
 author: "Zaid Haddad"
 date: "10/24/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # What is Data Science?
 
