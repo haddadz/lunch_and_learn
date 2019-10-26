@@ -6,14 +6,14 @@
 
 - Data Analytics, Data Mining, Stats, Big Data, **ML**, Predictive Analytics?
 - Data Science is: making sense of Data
-- Data Science is: multidisciplinary (Stats, Math, CS, Domain Experts)
-
+- Data Science is: multidisciplinary (Stats, Math, CS, Domain Experts)    
+     
+Data Science is the science which uses computer science, statistics and machine learning, visualization and human-computer interactions to collect, clean, integrate, analyze, visualize, interact with data to create data products.
+     
 
 ## Data Science Lifecycle
 
-Also monitor your ML model in production. 
-
-![](Data-Mining-Lifecycle.jpg)
+![Plus monitoring your ML model in production. ](Data-Mining-Lifecycle.jpg)
 
 ## Machine Learning
     
